@@ -1,2 +1,2 @@
 # gt1
-This program is to practice loop.
+This program is to practice loop in group.
